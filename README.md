@@ -37,3 +37,11 @@ s.no|name|id
 2.|Kamakshi|5i3
 
 ~~Strike~~
+
+1. Nested list
+    - First list
+      - second list
+
+:EMOJICODE:@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+
+:thinking:
