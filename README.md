@@ -56,3 +56,5 @@ Welcome to github
 <!-- This content will not appear in the rendered Markdown -->
 
 Let's rename \*our-new-project\* to \*our-old-project\*.
+
+![something](https://i.pinimg.com/originals/61/a2/92/61a2928e69314463bf60239a08583aff.jpg)
