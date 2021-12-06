@@ -36,7 +36,7 @@ s.no|name|id
 1.|Pavana|5i2
 2.|Kamakshi|5i3
 
-~~Strike~~
+~~Strike Through~~
 
 1. Nested list
     - First list
