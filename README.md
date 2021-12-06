@@ -58,3 +58,4 @@ Welcome to github
 Let's rename \*our-new-project\* to \*our-old-project\*.
 
 ![something](https://i.pinimg.com/originals/61/a2/92/61a2928e69314463bf60239a08583aff.jpg)
+![hyde](https://i.pinimg.com/736x/b3/87/d3/b387d3f5038dd54d84cef69c6aaf625f--heidi-cartoon-heidi-peter.jpg)
